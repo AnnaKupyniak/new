@@ -8,20 +8,5 @@
     "id": 2,
     "title": "Healthy Eating Tips",
     "description": "Simple tips to maintain a balanced and nutritious diet."
-  },
-  {
-    "id": 3,
-    "title": "Traveling on a Budget",
-    "description": "How to explore the world without spending a fortune."
-  },
-  {
-    "id": 4,
-    "title": "Learning JavaScript",
-    "description": "Step-by-step guide to mastering JavaScript programming."
-  },
-  {
-    "id": 5,
-    "title": "Yoga for Beginners",
-    "description": "Easy yoga routines to start your wellness journey."
   }
 ]
