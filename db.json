@@ -1,12 +1,1 @@
-[
-  {
-    "id": 1,
-    "title": "Introduction to AI",
-    "description": "A beginner's guide to understanding artificial intelligence concepts."
-  },
-  {
-    "id": 2,
-    "title": "Healthy Eating Tips",
-    "description": "Simple tips to maintain a balanced and nutritious diet."
-  }
-]
+[ { "id": 1, "title": "Post 1" }, { "id": 2, "title": "Post 2" }, { "id": 3, "title": "Post 3" } ]
